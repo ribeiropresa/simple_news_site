@@ -1,0 +1,277 @@
+/* site structure*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #fff url(../images/fundo.png) repeat-x;
+}
+
+#container {
+	width: 750px;
+	margin: 0 auto;
+}
+
+#top {
+	height: 150px;
+	padding-top: 25px;
+	background: url(../images/detalhe-topo.png) no-repeat right top;
+}
+
+.logo{
+	width: 152px;
+	height: 66px;
+	background: url(../images/logo.png) no-repeat center; 
+	text-indent: -3000px;
+}
+
+/*navbar*/
+a:link, a:visited {
+	color: #b10333;
+	padding: 2px;
+}
+
+a:hover {
+	color: #e50040;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#top ul {
+	margin-top: 30px;
+	background: #b10333;
+	float: left;
+}
+
+#top ul li {
+	float: left;
+}
+
+#top ul a {
+	font-size: 0.9em;
+	display: block;
+	padding: 0.5em 1.5em;
+	line-height: 2.1em;
+	text-decoration: none;
+	color: #fff;
+	background: url(../images/divisor.png) no-repeat left center;
+}
+
+#top ul .first a {
+	background: none; 
+}
+
+#top ul a:hover {
+	color: #69001d;
+}
+
+body.home #navbar-x a#home,
+body.country #navbar-x a#country,
+body.world #navbar-x a#world,
+body.economy #navbar-x a#economy,
+body.health #navbar-x a#health,
+body.science #navbar-x a#science,
+body.photos #navbar-x a#photos
+{
+	color: #fff;
+	background: #de003e; 
+	cursor: text;
+}
+
+/*columns layout*/
+#content {
+	margin-top: 60px;
+	background: #f5f5f5;
+}
+
+#navbar-y {
+	width: 180px;
+	float: left;
+	margin: 0 0 20px -750px;
+}
+
+#three-columns #primary {
+	width: 270px;
+	float: left;
+	margin: 0 0 20px 195px;
+}
+
+#two-columns #primary {
+	width: 555px;
+	float: left;
+	margin: 0 0 20px 195px; 
+}
+
+#one-column #primary {
+	width: 750px;
+	margin: 70px 0 20px 0px;
+}
+
+#secondary {
+	width: 270px;
+	float: left;
+	margin-left: 15px;
+}
+
+.box {
+	margin: 10px 0;
+	padding: 5px;
+	background: #f3f3f3 url(../images/fundo-caixa.png); 	
+}
+
+h2 {
+	font-size: 1em;
+	padding: 5px;
+	background: #294c71;
+	color: #fff; 
+}
+
+.box-content {
+	background: #fff;
+	padding: 5px;
+	margin-top: 5px;
+}
+
+#footer {
+	background: #294c71;
+	padding: 20px; 
+}
+
+/*navbar-y*/
+#navbar-y ul a {
+	font-size: 0.9em;
+	padding: 3px;
+	display: block;
+	line-height: 30px;
+	color: #000;
+	text-decoration: none;
+	border-bottom: 1px solid #f3f3f3;
+}
+
+#navbar-y ul a:hover {
+	color: #a1a1a1;
+	background: #f9f9f9 url(../images/marcador.png) no-repeat left center;
+	padding-left: 20px;
+}
+
+label {
+	display: block;
+	cursor: pointer;
+}
+
+input {
+	padding: 5px;
+	width: 125px;
+	font-size: 0.9em;
+	background-color: #fff;
+}
+
+input.submit {
+	width: 80px;
+	color: #fff;
+	margin-top: 5px;
+	background-color: #b10333;
+	border: 2px solid #870529;
+}
+
+/*images*/
+img.main-image {
+	width: 98%;
+	border: 3px solid #dfdfdf;
+}
+
+/*headers*/
+h3 {
+	text-transform: uppercase;
+	display: inline;
+	font-size: 0.8em;
+	padding: 3px; 
+}
+
+p {
+	padding-top: 10px;
+}
+
+.spotlight h3 {
+	background: #b10333;
+	color: #fff;
+}
+
+.interview h3 {
+	background: #b10333;
+	color: #000;
+}
+
+/*news list*/
+#news-list li {
+	padding: 2px;
+	border-bottom: 1px solid #ccc;
+	height: 62px;
+}
+
+#news-list li:hover {
+	background: #eee;
+	cursor: pointer; 
+}
+
+#news-list li a img {
+	float: left;
+	margin: 5px;
+}
+
+#news-list li a {
+	text-decoration: none;
+	font-size: 0.8em;
+}
+
+#news-list li a h3 {
+	font-size: 0.8em;
+	padding: 0;
+	color: #3e7ab9;
+}
+
+#news-list li a p {
+	font-size: 0.7em;
+	color: #000;
+}
+
+body.chew-mee #interviews a#chew-mee,
+body.clark-kent #interviews a#clark-kent,
+body.henry-higgins #interviews a#henry-higgins,
+body.liza-doolittle #interviews a#liza-doolittle,
+body.lois-lane #interviews a#lois-lane,
+body.mary-magdalene #interviews a#mary-magdalene,
+body.may-day #interviews a#may-day,
+body.simon-cyrene #interviews a#simon-cyrene
+{
+	background: #a1a1a1;
+	color: #f9f9f9;
+}
+
+#quote {
+	background: none;
+	color: #294c71;
+	padding-left: 20px;
+}
+
+.question {
+	margin-top: 15px;
+	font-weight: bold; 
+}
+
+.answer {
+	margin-top: 5px;
+	color: #3e7ab9; 
+}
+/*footer*/
+#footer-content {
+	width: 750px;
+	margin: 0 auto;
+	color: #fff;
+}

@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"FONT",
+				"font-weight\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"bac",
+				"background-clip\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"fla",
+				"float\tproperty"
+			],
+			[
+				"teext",
+				"text-decoration\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"eco",
+				"economy"
+			],
+			[
+				"tec",
+				"Technology"
+			],
+			[
+				"e",
+				"economy"
+			],
+			[
+				"intervi",
+				"Interviews"
+			],
+			[
+				"magin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"padding-",
+				"padding-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"tetc",
+				"text-decoration\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"fonst",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bacgr",
+				"background-color\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"im",
+				"imagens"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/filip/Desktop/webDevProjects/20-20/chalet-hotel/index.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/chalet-hotel/css/style.css",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/covid.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/science.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/new-app.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/report.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/health.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/economy.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/new-agreement.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/world.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/country.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/photos.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/css/style.css",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/index.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/clark-kent.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/simon-cyrene.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/may-day.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/mary-magdalene.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/lois-lane.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/liza-doolittle.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/henry-higgins.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/chew-mee.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/css/liza-doolittle.html",
+		"/C/Users/filip/AppData/Local/Temp/Rar$DRa10604.35698/noticias-cidade/nova-legislacao.html",
+		"/C/Users/filip/Desktop/webDevProjects/20-20/news/new-law.html",
+		"/C/Users/filip/Desktop/ISSUES/Cursos/20-projects/css-project3/selectors.html",
+		"/C/Users/filip/Desktop/ISSUES/Cursos/20-projects/css-project3/style.css",
+		"/C/Users/filip/Desktop/ISSUES/Cursos/20-projects/css-project2/index.html",
+		"/C/Users/filip/Desktop/20-projects/css-project2/index.html",
+		"/C/Users/filip/Desktop/20-projects/css-project2/index.css",
+		"/C/Users/filip/Desktop/css-project1/index.html",
+		"/C/Users/filip/Desktop/css-project1/index.css",
+		"/C/Users/filip/Desktop/css-project1/portfolio.html",
+		"/C/Users/filip/Desktop/css-project1/contact.html",
+		"/C/Users/filip/Desktop/css-project1/bio.html",
+		"/C/Users/filip/Desktop/css-project1/imagens/capa.png",
+		"/C/Users/filip/Desktop/first_project/contact.html",
+		"/C/Users/filip/Desktop/first_project/about-us.html",
+		"/C/Users/filip/Desktop/first_project/index.html",
+		"/C/Users/filip/Desktop/first_project/imagens/about-us.html",
+		"/C/Users/filip/Desktop/first_project/project.html",
+		"/C/Users/filip/Desktop/Cursos/20 cursos 20 projectos/1. Aula/Aula/CSS/teste.css",
+		"/C/Users/filip/Desktop/Cursos/20 cursos 20 projectos/1. Aula/Aula/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
